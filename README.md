@@ -1,23 +1,24 @@
-# Supplementary Regional Differences in Central Yiddish Vowel Length: Central Poland and the Unterland (forthcoming)
+# Supplementary Materials for Vowel Study 2025
 
-This repository contains supplementary materials for our study examining differences in vowel length across Poland and Unterland regions. These materials complement the main paper by providing detailed participant information and comprehensive statistical output.
+This repository contains supplementary materials for our study examining vowel patterns across Poland and Unterland regions. These materials complement the main paper by providing detailed participant information and comprehensive statistical analyses.
 
 ## Repository Organization
 
 Our materials are organized into two main sections:
 
 ### 1. Participant Information (/tables/participant_data/)
-We've collected detailed demographic and linguistic information from two regions:
-- Poland participant data provides information about [brief description of what's included]
-- Unterland participant data includes similar information for comparison
+The participant information tables serve as  source documentation for the USC Shoah Foundation Visual History Archive testimonies analyzed in this study, in accordance with the agreement between the Corpus of Spoken Yiddish in Europe (CSYE) and the USC Shoah Foundation. Each entry includes:
 
-The participant information is stored in CSV format to ensure easy access across different statistical software packages. Each data file is accompanied by a detailed codebook explaining all variables.
+- Unique VHA code for testimony identification
+- Speaker demographic information
+- Interview metadata (location, date)
+- Associated audio file references
 
 ### 2. Statistical Analyses (/appendices/)
 We provide three detailed appendices containing linear mixed effects model outputs:
-- Appendix A focuses on [describe focus of first model]
-- Appendix B examines [describe focus of second model]
-- Appendix C analyzes [describe focus of third model]
+- Appendix A examines durational distinctions for the high vowels [iː] and [i]
+- Appendix B analyzes durational distinctions for [aː] and [a]
+- Appendix C investigates durational distinctions for [uː] and [u]
 
 Each appendix includes complete model specifications, diagnostics, and interpretations.
 
