@@ -1,6 +1,6 @@
-# Supplementary Materials for Vowel Study 2025
+# Supplementary Materials for Regional Differences in Central Yiddish Vowel Length: Central Poland and the Unterland (forthcoming)
 
-This repository contains supplementary materials for our study examining vowel patterns across Poland and Unterland regions. These materials complement the main paper by providing detailed participant information and comprehensive statistical analyses.
+This repository contains supplementary materials for Regional Differences in Central Yiddish Vowel Length: Central Poland and the Unterland. These materials complement the  paper by providing detailed participant information and comprehensive statistical analyses.
 
 ## Repository Organization
 
