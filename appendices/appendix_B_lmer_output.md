@@ -2,8 +2,6 @@
 
 ## Results of linear mixed model assessing durational distinction for the high vowels [aː] and [a]
 
-*Variables of interest highlighted in gray in the original analysis*
-
 ### Fixed Effects
 
 | Predictors | Estimates | Std.Error | t-value | p-value | n | %long |
